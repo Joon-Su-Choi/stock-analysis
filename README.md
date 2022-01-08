@@ -27,21 +27,21 @@ Overview of Analysis
 
 	According to the data, we observe that 2017 has seen more growth than 2018 for almost all stocks and majority of those stocks had a negative return in 2018 as well. If we were to invest in a stock we see that ENPH has seen a 129.5% increase in 2017 and a 81.9% increase in 2018. RUN has seen a small increase of 5.5% in 2017 but in 2018 they saw a 84% increase. These would be the two stocks to invest in judging from the data.
 	
-	Original Script 2017
+Original Script 2017
 
-	![Orginal Script 2017](https://user-images.githubusercontent.com/95505596/148663446-c369c7ff-622a-44c3-93f0-9bfc6d5b3a46.png)
+![Orginal Script 2017](https://user-images.githubusercontent.com/95505596/148663446-c369c7ff-622a-44c3-93f0-9bfc6d5b3a46.png)
 
-	Refactored Script 2017
+Refactored Script 2017
 
-	![VBA_Challenge_2017](https://user-images.githubusercontent.com/95505596/148663424-a758f6db-8635-49d2-a2ed-b3d77aabf140.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/95505596/148663424-a758f6db-8635-49d2-a2ed-b3d77aabf140.png)
 
-	Orignal Script 2018
+Orignal Script 2018
 
-	![Original Script 2018](https://user-images.githubusercontent.com/95505596/148663450-ec36ccfd-0923-4283-b16c-b6c7033c99b8.png)
+![Original Script 2018](https://user-images.githubusercontent.com/95505596/148663450-ec36ccfd-0923-4283-b16c-b6c7033c99b8.png)
 
-	Refactored Script 2018
+Refactored Script 2018
 
-	![VBA_Challenge_2018](https://user-images.githubusercontent.com/95505596/148663436-126b9a64-38c6-4cec-805a-0e63cb156b65.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/95505596/148663436-126b9a64-38c6-4cec-805a-0e63cb156b65.png)
 
 	  As we can see from our execution on the old and refactored scripts, the refractored scripts ran much faster. We were able to save time and consolidate the script efficiently.
 
